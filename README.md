@@ -1,9 +1,9 @@
 # Datheon Data Analytics & Power BI Internship
 
-**Name:** Mohammed A R
-**Register No:** 421125106073
-**Program:** B.Tech AI & Data Science, IFET College of Engineering
-**Application ID:** DT-2026-20R6F
+- **Name:** Mohammed A R
+- **Register No:** 421125106073
+- **Program:** B.Tech AI & Data Science, IFET College of Engineering
+- **Application ID:** DT-2026-20R6F
 
 ## Project Overview
 This repository contains my completed tasks for the Datheon Data Analytics & Power BI Internship. Each task is stored in its own folder with source code, data and findings.
